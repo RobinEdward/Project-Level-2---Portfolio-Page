@@ -1,0 +1,3 @@
+REFLECTION ON LESSON RE GIT AND GITHUB
+
+Windows has a tool for comparing versions of files and it is FC for file compare. This used by first saving the 2 files to one directory, then going to Command Prompt then using CD for change directory then FC filename1 filename2 . The results are immediate. You can clearly see the sections that have been changed. This helps with debugging where changes in a file create new problems or bugs.  

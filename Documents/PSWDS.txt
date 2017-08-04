@@ -1,0 +1,5 @@
+slack
+USERNAME robindesbois
+email robinirving2016@gmail
+pswd  GoSlackGo2017
+

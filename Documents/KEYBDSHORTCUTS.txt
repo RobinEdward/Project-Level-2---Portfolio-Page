@@ -1,0 +1,83 @@
+SHORTCUTS FOR WINDOWS AND SUBLIME:
+
+Commands
+Cut, Copy, Paste
+
+Windows/Linux
+Cut: Ctrl + X
+Copy: Ctrl + C
+Paste: Ctrl + V
+
+Windows/Linux
+Undo: Ctrl + Z
+Redo: Ctrl + ? + Z or Ctrl + Y
+
+Duplicate
+
+Windows/Linux
+Ctrl + ? + D with or without text highlighted
+
+Windows/Linux
+Select Word: Ctrl + D
+Select Line: Ctrl + L
+Select All: Ctrl + A
+Select Every Instance: Alt + F3
+Need to select a word, line, or entire file? Use one of these commands. If you select a word and want to continue selecting the same word, keep pressing ? + D (Mac) or Ctrl + D (Windows/Linux). Want to select every instance of the same word? Press ? + Ctrl + G (Mac) or Alt + F3 (Windows/Linux) to select all instances of the same word.
+
+Windows/Linux
+Move Cursor to Previous Word: Ctrl + ?
+Move Cursor to Next Word: Ctrl + ?
+Move Cursor to Start of Line: Home
+Move Cursor to End of Line: End
+Move Cursor to Start of Document: Ctrl + Home
+Move Cursor to End of Document: Ctrl + End
+
+Windows/Linux
+Jump to Opening/Closing Parentheses, Brackets, Braces: Ctrl + M
+Jump to Definition: Ctrl + R
+The jump commands are useful for snapping to places in code fast! Try them out.
+
+Windows/Linux
+Indent: Tab or ? + ]
+Unindent: ? + Tab or ? + [
+Make your code easier to read by leveraging the indent and unindent commands.
+
+Toggle Comment
+Mac
+? + /
+Windows
+Ctrl + /
+Leave comments in your code with the toggle comments command. You'll thank yourself later! Also, this is great for quickly debugging.
+
+
+Tab Management
+Mac
+New Tab: ? + N
+Switch Tab Left: ? + ? + [
+Switch Tab Right: ? + ? + ]
+Close Tab: ? + W
+Reopen Tab: ? + ? + T
+Windows
+New Tab: Ctrl + N
+Switch Tab Left: Ctrl + PgUp
+Switch Tab Right: Ctrl + PgDn
+Close Tab: Ctrl + W
+Reopen Tab: Ctrl + ? + T
+Look like a dynamo creating new tabs, swapping between tabs, and closing tabs. Check out these commands for tab management.
+
+Also, try using these commands in your browser. They work there too! Only difference is ? + N (Mac) or Ctrl + N (Windows/Linux) will open a new window in the browser and ? + T (Mac) or Ctrl + T (Windows/Linux) will open a new tab.
+
+Quick Open
+Mac
+? + P
+Windows/Linux
+Ctrl + P
+Try opening a folder inside Sublime or Atom. Notice how you can see all the files in the sidebar? That's a project! Use the sidebar or the quick open command to open the file you want to work on.
+
+Find
+Mac
+? + F
+Windows
+Ctrl + F
+Looking for a word in a file? Use the find command to search for it. Want to search the entire project? Add ? (Shift) to the command.
+

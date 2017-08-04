@@ -1,0 +1,70 @@
+  
+<div class=""title"" Notes from Lesson Zero><ol type="1"><b>Notes from Lesson 0; The Basics of the Web and HTML:</b><p></p></div>
+  <div class="list"><b><li><p>The Web</b> -how everything is put together</p></li>
+  <b><li><p>HTML</b> - main document type of the web. Hypertext Markup Language.</p></li>
+  <b><li><p>URL's</b> - how we refer to documents on the web</li></p>
+  <b><li><p>HTTP </b> - the protocol that unites the web</li></p>
+  <b><li>Web Applications</b> - what they are and how they fit into the big picture</p></ol></div>
+</div>
+
+<div class="title" Types of Files on WEB><ol type="I"><p><b>Types of Files that can be Found on the Web:</b></p></div>
+<div class="list"><li><p><b>HTML</b></p></li>
+  <li><p><b>Plain Text</b></p></li>
+  <li><p><b>Images</b></p></li>
+  <li><p><b>Video</b></p></li>
+  <li><p><b>Music</b></p></li></ol></div>
+  
+<div class="title" Major Pieces></div><ol type="i"><p><b>Major Pieces of the Web:</b></p></div>
+  <div class="list"><li><b>Browser on PC</b> - <em>Http protocol. Eg's of browsers include Internet Explorer, Firefox, Chrome.</em><p></p></li>
+<li><b>HTML- Hypertext Markup Language</b><em>- text - what you see, Markup - what it looks like, references other docs</em><p></p></li>
+  <li><b> links to other pages</b><p></p></li></div>  
+
+<div><ul style="list-style-type:square"><p><b>The Basics of the Web:</b></p>
+  <li><p><b>The Web</b></p></li>
+  <li><p><b>HTML</b></p></li>
+  <li><p><b>URL's</b></p></li>
+  <li><p><b>HTTP</b></p></li>
+  <li><p><b>Web Applications</b></p></li></div>
+
+<div></div><p><b>The Internet was created in early 1990's and contains 30 Billion Pages.</b></p></div>
+<div><ul style="list-style-type:circle"><p><b>Major Pieces of the Internet:</b></p>
+  <li><p><b><em>1) You/your computer/ your browser</b></em></p></li>
+  <li><p><b><em>2) the internet</b></em></p></li>
+  <li><p><b><em>3) Servers</b></p></em></li></ul></div>
+
+div><dl><p><b>HTML is made up of:</b></p>
+  <dt><p><b>Text content</b> - <dd><em>what you see</em></p></dd></dt>
+  <dt><p><b>Markup</b><em> - <dd>what it looks like</em></p></dd></dt>
+<dt><p><b>References to other documents</b><em>- <dd>eg images and videos</em></p></dd></dt>
+<dt><p><b>Links to other pages</b></p></dt></div>
+
+<div><p><b>HTML MARKUP:</b></p>
+<p><b>Opening Tag, Content, Closing Tag all of which is known as an Element</b></p>
+<p><b>b = bold</b></p>
+<p><b>em = emphasis -italics</b></p></div
+
+<div><p><b>HTML ATTRIBUTES:</b></p>
+<p><b>ATTR</b> = "value"</p>
+<p><b>Anchor</b> = a = used for making links</p>
+<p><b>Images</b> = IMG img src="url"  alt= "txt"</p>
+<p><b>alt</b>= alternate  text to be displayed if image doesn't load</p>
+<p><b>br</b> = break  inline command</p>
+<b>p </b>= paragraph  block command<p></p>
+
+<p><b>Span</b> = inline</p>
+<p><b>Div</b> = block command</p><br></div>
+
+<div><ul style="list-style-type:square"><b>FIVE IMPORTANT THINGS TO TAKE AWAY FROM LESSON ONE:</b><li><dl><dt><b>What a Web Page is-</b></dt><dd> a text doc written in HTML. Web browsers read these documents and interpret them.</dd></dl></li>
+  <li><dl><dt><b>How Coding works-</b></dt><dd>When programmers write text in a language that a computer can understand and then follow the instructions.</dd></dl></li>
+  <li><b>Computers Are Stupid</li></b><br>
+<li><b>Programmers Cannot Remember Everything</li></b>
+<li><dl><dt><b>Basic HTML Vocabulary</b> -</dt><dd> Tags are always contained within bullets.</dd>
+  <dd>Element is everything inside opening/closing tags.</dd>
+  <dd>Attribute is the property of the HTML Element.</dd><br><br></div>
+  
+  
+<div><b>Lesson 1.2: Creating a Structured Document</b><br>
+ HTML files are like the walls of a house dividing rooms.<br> CSS is like the style of your house, colour, design,v etc.<br> Javascript is your interactive components.<br> Webtools are used to build a webpage.<br><br><b> Wikipedia's Page Structure:<br></b> Not all elements are visible.<br> All elements are rectangular<br> You can read the same texts as on the page<br> HTML and CSS are languages<br>HTML controls the structure of a Wepage<br>CSS controls the style or appearance <br> DOM is Document Object Model which is the tree-like structure of a page<br>HTML=language with syntax and rules<br>Tag is an element in a tree, i.e. DOM<br> CSS allows us to use a syntax/rules to change the look and style<br><br><br><br></div>
+ 
+ 
+ 
